@@ -155,7 +155,8 @@ function createRain() {
     heart.style.animationDuration = Math.random() * 2 + 3 + "s";
 
     const heartImage = document.createElement("img");
-    heartImage.src = "https://cdn.discordapp.com/attachments/1035231349180747826/1190672860776255598/heart_6.PNG";
+    // heartImage.src = "https://cdn.discordapp.com/attachments/1035231349180747826/1190672860776255598/heart_6.PNG";
+    heartImage.src = "https://www.vectorkhazana.com/assets/images/products/Love_Heart.png"
     heartImage.alt = "Heart";
     heartImage.style.width = "100%";
     heart.appendChild(heartImage);
