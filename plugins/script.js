@@ -56,7 +56,7 @@ window.addEventListener('load', () => {
 });
 
 const heroText = document.querySelector('.hero-text');
-const heroTextContent = 'Zhuldyz is Love';
+const heroTextContent = 'Alima is Love';
 
 function typeText(element, text) {
     let index = 0;
