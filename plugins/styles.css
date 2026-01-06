@@ -67,7 +67,7 @@ header {
     transform: translateY(0);
     animation: fall 3s linear forwards;
     z-index: 1;
-    cursor: url('https://cdn.discordapp.com/attachments/1108762577602871346/1190700239171104911/image_2.png?') 5 5, auto;
+    cursor: url('https://www.vectorkhazana.com/assets/images/products/Love_Heart.png') 5 5, auto;
     color: rgba(0, 0, 0, 0.363);
 }
 
